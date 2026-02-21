@@ -4,30 +4,26 @@
     "version": "7fc32159"
   },
   "products": [
-    { "id": 1, "name": "Sofa Set", "category": "home", "price": 25000.00, "stock": 2, "rating": 4.5 },
-    { "id": 2, "name": "Dining Table", "category": "home", "price": 18000.00, "stock": 1, "rating": 4.2 },
-    { "id": 3, "name": "Bed Frame", "category": "home", "price": 22000.00, "stock": 1, "rating": 4.4 },
-    { "id": 4, "name": "Office Chair", "category": "home", "price": 8500.00, "stock": 3, "rating": 4.1 },
-    { "id": 5, "name": "Bookshelf", "category": "home", "price": 12000.00, "stock": 2, "rating": 4.3 },
-    { "id": 6, "name": "Coffee Table", "category": "home", "price": 5972.50, "stock": 1, "rating": 4.0 },
-
-    { "id": 7, "name": "Laptop", "category": "electronics", "price": 65000.00, "stock": 4, "rating": 4.6 },
-    { "id": 8, "name": "Smartphone", "category": "electronics", "price": 30000.00, "stock": 6, "rating": 4.7 },
-    { "id": 9, "name": "Headphones", "category": "electronics", "price": 5000.00, "stock": 10, "rating": 4.3 },
-    { "id": 10, "name": "Smart Watch", "category": "electronics", "price": 12000.00, "stock": 5, "rating": 4.4 },
-
-    { "id": 11, "name": "T-Shirt", "category": "fashion", "price": 999.00, "stock": 20, "rating": 4.1 },
-    { "id": 12, "name": "Jeans", "category": "fashion", "price": 1999.00, "stock": 15, "rating": 4.2 },
-    { "id": 13, "name": "Jacket", "category": "fashion", "price": 3499.00, "stock": 8, "rating": 4.5 },
-    { "id": 14, "name": "Sneakers", "category": "fashion", "price": 2999.00, "stock": 10, "rating": 4.6 },
-
-    { "id": 15, "name": "Cricket Bat", "category": "sports", "price": 4500.00, "stock": 5, "rating": 4.3 },
-    { "id": 16, "name": "Football", "category": "sports", "price": 1500.00, "stock": 12, "rating": 4.2 },
-    { "id": 17, "name": "Tennis Racket", "category": "sports", "price": 3500.00, "stock": 6, "rating": 4.4 },
-
-    { "id": 18, "name": "Notebook", "category": "stationery", "price": 120.00, "stock": 50, "rating": 4.0 },
-    { "id": 19, "name": "Pen Pack", "category": "stationery", "price": 240.00, "stock": 40, "rating": 4.1 },
-    { "id": 20, "name": "Backpack", "category": "stationery", "price": 1500.00, "stock": 10, "rating": 4.3 }
+    { "id": "prod-7fc32159-001", "name": "Elite Item 1", "category": "books", "price": 136.93, "stock": 100, "rating": 1.4 },
+    { "id": "prod-7fc32159-002", "name": "Premium Item 2", "category": "home", "price": 246.38, "stock": 128, "rating": 4.4 },
+    { "id": "prod-7fc32159-003", "name": "Standard Item 3", "category": "clothing", "price": 427.21, "stock": 50, "rating": 4 },
+    { "id": "prod-7fc32159-004", "name": "Premium Item 4", "category": "sports", "price": 440.35, "stock": 114, "rating": 1.5 },
+    { "id": "prod-7fc32159-005", "name": "Elite Item 5", "category": "electronics", "price": 149.14, "stock": 23, "rating": 1.9 },
+    { "id": "prod-7fc32159-006", "name": "Basic Item 6", "category": "books", "price": 404.5, "stock": 44, "rating": 2.8 },
+    { "id": "prod-7fc32159-007", "name": "Basic Item 7", "category": "home", "price": 485.7, "stock": 49, "rating": 3.4 },
+    { "id": "prod-7fc32159-008", "name": "Pro Item 8", "category": "home", "price": 329.48, "stock": 71, "rating": 2.8 },
+    { "id": "prod-7fc32159-009", "name": "Pro Item 9", "category": "home", "price": 35.12, "stock": 190, "rating": 4.4 },
+    { "id": "prod-7fc32159-010", "name": "Standard Item 10", "category": "electronics", "price": 268.56, "stock": 163, "rating": 2.1 },
+    { "id": "prod-7fc32159-011", "name": "Elite Item 11", "category": "home", "price": 442.35, "stock": 20, "rating": 4.1 },
+    { "id": "prod-7fc32159-012", "name": "Elite Item 12", "category": "home", "price": 220.03, "stock": 96, "rating": 4.3 },
+    { "id": "prod-7fc32159-013", "name": "Premium Item 13", "category": "books", "price": 143.25, "stock": 141, "rating": 1.2 },
+    { "id": "prod-7fc32159-014", "name": "Pro Item 14", "category": "clothing", "price": 95.91, "stock": 192, "rating": 4.3 },
+    { "id": "prod-7fc32159-015", "name": "Pro Item 15", "category": "electronics", "price": 41.67, "stock": 172, "rating": 4.3 },
+    { "id": "prod-7fc32159-016", "name": "Elite Item 16", "category": "clothing", "price": 191.36, "stock": 118, "rating": 5 },
+    { "id": "prod-7fc32159-017", "name": "Standard Item 17", "category": "electronics", "price": 461.6, "stock": 39, "rating": 4.2 },
+    { "id": "prod-7fc32159-018", "name": "Pro Item 18", "category": "clothing", "price": 291.2, "stock": 73, "rating": 3.4 },
+    { "id": "prod-7fc32159-019", "name": "Basic Item 19", "category": "books", "price": 450.55, "stock": 19, "rating": 1.3 },
+    { "id": "prod-7fc32159-020", "name": "Standard Item 20", "category": "electronics", "price": 93.23, "stock": 152, "rating": 1.3 }
   ],
   "aggregations": {
     "home": {
