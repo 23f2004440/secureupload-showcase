@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "email": "23f2004440@ds.study.iitm.ac.in",
+    "version": "7fc32159"
+  },
+  "products": [
+    { "id": 1, "name": "Sofa Set", "category": "home", "price": 25000.00, "stock": 2, "rating": 4.5 },
+    { "id": 2, "name": "Dining Table", "category": "home", "price": 18000.00, "stock": 1, "rating": 4.2 },
+    { "id": 3, "name": "Bed Frame", "category": "home", "price": 22000.00, "stock": 1, "rating": 4.4 },
+    { "id": 4, "name": "Office Chair", "category": "home", "price": 8500.00, "stock": 3, "rating": 4.1 },
+    { "id": 5, "name": "Bookshelf", "category": "home", "price": 12000.00, "stock": 2, "rating": 4.3 },
+    { "id": 6, "name": "Coffee Table", "category": "home", "price": 5972.50, "stock": 1, "rating": 4.0 },
+
+    { "id": 7, "name": "Laptop", "category": "electronics", "price": 65000.00, "stock": 4, "rating": 4.6 },
+    { "id": 8, "name": "Smartphone", "category": "electronics", "price": 30000.00, "stock": 6, "rating": 4.7 },
+    { "id": 9, "name": "Headphones", "category": "electronics", "price": 5000.00, "stock": 10, "rating": 4.3 },
+    { "id": 10, "name": "Smart Watch", "category": "electronics", "price": 12000.00, "stock": 5, "rating": 4.4 },
+
+    { "id": 11, "name": "T-Shirt", "category": "fashion", "price": 999.00, "stock": 20, "rating": 4.1 },
+    { "id": 12, "name": "Jeans", "category": "fashion", "price": 1999.00, "stock": 15, "rating": 4.2 },
+    { "id": 13, "name": "Jacket", "category": "fashion", "price": 3499.00, "stock": 8, "rating": 4.5 },
+    { "id": 14, "name": "Sneakers", "category": "fashion", "price": 2999.00, "stock": 10, "rating": 4.6 },
+
+    { "id": 15, "name": "Cricket Bat", "category": "sports", "price": 4500.00, "stock": 5, "rating": 4.3 },
+    { "id": 16, "name": "Football", "category": "sports", "price": 1500.00, "stock": 12, "rating": 4.2 },
+    { "id": 17, "name": "Tennis Racket", "category": "sports", "price": 3500.00, "stock": 6, "rating": 4.4 },
+
+    { "id": 18, "name": "Notebook", "category": "stationery", "price": 120.00, "stock": 50, "rating": 4.0 },
+    { "id": 19, "name": "Pen Pack", "category": "stationery", "price": 240.00, "stock": 40, "rating": 4.1 },
+    { "id": 20, "name": "Backpack", "category": "stationery", "price": 1500.00, "stock": 10, "rating": 4.3 }
+  ],
+  "aggregations": {
+    "home": {
+      "count": 6,
+      "inventoryValue": 115472.50
+    }
+  }
+}
